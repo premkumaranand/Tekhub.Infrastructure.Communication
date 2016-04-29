@@ -1,0 +1,6 @@
+C:\Repos\Tekhub.Infrastructure.Communication\Tekhub.Infrastructure.Communication\bin\Debug\Tekhub.Framework.45.dll
+C:\Repos\Tekhub.Infrastructure.Communication\Tekhub.Infrastructure.Communication\obj\Debug\Tekhub.Infrastructure.Communication.csprojResolveAssemblyReference.cache
+C:\Repos\Tekhub.Infrastructure.Communication\Tekhub.Infrastructure.Communication\bin\Debug\Tekhub.Infrastructure.Communication.45.dll
+C:\Repos\Tekhub.Infrastructure.Communication\Tekhub.Infrastructure.Communication\bin\Debug\Tekhub.Infrastructure.Communication.45.pdb
+C:\Repos\Tekhub.Infrastructure.Communication\Tekhub.Infrastructure.Communication\obj\Debug\Tekhub.Infrastructure.Communication.45.dll
+C:\Repos\Tekhub.Infrastructure.Communication\Tekhub.Infrastructure.Communication\obj\Debug\Tekhub.Infrastructure.Communication.45.pdb
